@@ -1,0 +1,5 @@
+[publish_content]
+title_hash: field = 123456789field;
+content_hash: field = 987654321field;
+price_microcredits: u64 = 1000000u64;
+timestamp: u64 = 1700000000u64;
